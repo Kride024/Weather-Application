@@ -9,6 +9,7 @@
     background: #1e1e1e;
     color:#171717;
     text-align: center;
+   
  }
 
  .container{
@@ -24,8 +25,12 @@
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 1.2rem;
 }
 
+.weather_body div{
+    margin-bottom: 1.2rem;
+}
 input{
     border:none;
     background:#1e1e1e;
@@ -76,7 +81,10 @@ input::placeholder{
     display:grid;
     grid-template-columns:repeat(2,35px);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    
+    margin:0.5rem;
+    padding:0.7rem;
+    border-radius: 1rem;
+  
 }
 
 .weather_card i{

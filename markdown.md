@@ -20,3 +20,10 @@
 - Display additional weather details such as temperature, minimum and maximum temperature, feels like temperature, humidity, wind speed, and
 
 ## step 7: Handle city search
+- Implement functionality to allow users to search for weather information of different cities.
+- Add event listener to handle city search input and trigger the weather data fetching function accordingly.
+
+## step 8: Add styling(optional)
+- Apply css styling to the weather display elements to improve the visual presentation of weather information.
+
+## step 9: Error Handling(optional)
